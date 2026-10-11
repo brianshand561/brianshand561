@@ -6,7 +6,7 @@
 <br/>
 
 <a href="https://github.com/brianshand561">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=900&height=48&lines=Platform+%26+DevOps+Engineer+%40+NextEra+Energy;Kubernetes+%26+AWS+at+Fortune+200+scale;220K+CI+jobs+%2F+month+on+ephemeral+EKS+runners;20+certifications+%C2%B7+CKA+%C2%B7+CKS+%C2%B7+AWS+SA-Pro;I+build+platforms+that+let+hundreds+of+engineers+ship+faster" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=900&height=48&lines=Platform+%26+DevOps+Engineer;Kubernetes+%26+AWS+at+Fortune+200+scale;GitOps+%C2%B7+ephemeral+CI+%C2%B7+multi-region+resilience;20+certifications+%C2%B7+CKA+%C2%B7+CKS+%C2%B7+AWS+SA-Pro;I+build+platforms+that+let+hundreds+of+engineers+ship+faster" alt="Typing intro" />
 </a>
 
 <br/>
@@ -14,6 +14,10 @@
 <a href="https://www.linkedin.com/in/brian-shand-74b0298a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTMgMS40NS0yLjEzIDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6TTcuMTIgMjAuNDVIMy41NVY5aDMuNTd2MTEuNDV6Ii8+PC9zdmc+" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="mailto:brianshand561@gmail.com"><img src="https://img.shields.io/badge/Email-brianshand561%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Palm_Beach_Gardens,_FL-22D3EE?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0B1120&color=0B1120" alt="Palm Beach Gardens, FL" />
 
 </div>
+
+<br/>
+
+> **I run the platform that hundreds of engineers ship on.** At a Fortune 200 enterprise I own large-scale Kubernetes and AWS infrastructure: self-service platforms, CI/CD systems, and governance tooling that make shipping software secure, fast, and boring in the best way. Before tech I spent a decade founding and running a carbon fiber manufacturing company, so I think about P&L, throughput, and process as much as I think about pods.
 
 <br/>
 

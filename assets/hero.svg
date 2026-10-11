@@ -81,14 +81,14 @@
           <text x="104" y="340" fill="#22D3EE">20 CERTIFICATIONS</text>
         </g>
         <g>
-          <rect x="266" y="320" width="216" height="32" rx="16" fill="#A78BFA" fill-opacity=".1" stroke="#A78BFA" stroke-opacity=".5"/>
+          <rect x="266" y="320" width="200" height="32" rx="16" fill="#A78BFA" fill-opacity=".1" stroke="#A78BFA" stroke-opacity=".5"/>
           <circle cx="286" cy="336" r="4" fill="#A78BFA"><animate attributeName="opacity" values="1;.3;1" dur="2s" begin=".6s" repeatCount="indefinite"/></circle>
-          <text x="298" y="340" fill="#A78BFA">40+ PROD EKS CLUSTERS</text>
+          <text x="298" y="340" fill="#A78BFA">KUBERNETES AT SCALE</text>
         </g>
         <g>
-          <rect x="496" y="320" width="210" height="32" rx="16" fill="#F472B6" fill-opacity=".1" stroke="#F472B6" stroke-opacity=".5"/>
-          <circle cx="516" cy="336" r="4" fill="#F472B6"><animate attributeName="opacity" values="1;.3;1" dur="2s" begin="1.2s" repeatCount="indefinite"/></circle>
-          <text x="528" y="340" fill="#F472B6">220K CI JOBS / MONTH</text>
+          <rect x="480" y="320" width="210" height="32" rx="16" fill="#F472B6" fill-opacity=".1" stroke="#F472B6" stroke-opacity=".5"/>
+          <circle cx="500" cy="336" r="4" fill="#F472B6"><animate attributeName="opacity" values="1;.3;1" dur="2s" begin="1.2s" repeatCount="indefinite"/></circle>
+          <text x="512" y="340" fill="#F472B6">AWS · GITOPS · CI/CD</text>
         </g>
       </g>
     </g>

@@ -1,0 +1,277 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="570" viewBox="0 0 1200 570" role="img" aria-label="20 certifications">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1120"/><stop offset="1" stop-color="#0F172A"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#FFFFFF" stroke-opacity=".035"/></pattern>
+    <clipPath id="clip"><rect width="1200" height="570" rx="24"/></clipPath>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <polygon id="hexS" points="15.6,9 0,18 -15.6,9 -15.6,-9 0,-18 15.6,-9"/>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="570" fill="url(#bg)"/>
+    <rect width="1200" height="570" fill="url(#grid)"/>
+    <text x="30" y="36" font-family="'SFMono-Regular', Consolas, Menlo, monospace" font-size="13" letter-spacing="4" fill="#22D3EE">CERTIFICATIONS · 20</text>
+    <text x="30" y="58" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#94A3B8">Cloud, Kubernetes, networking, security and process — continuously renewed</text>
+    <text x="1170" y="36" text-anchor="end" font-family="'SFMono-Regular', Consolas, Menlo, monospace" font-size="11" letter-spacing="1"><tspan fill="#FF9900">● AWS 7</tspan><tspan fill="#94A3B8">   </tspan><tspan fill="#4F8BFF">● KUBERNETES 5</tspan><tspan fill="#94A3B8">   </tspan><tspan fill="#4285F4">● GOOGLE CLOUD 2</tspan><tspan fill="#94A3B8">   </tspan><tspan fill="#F0506E">● COMPTIA 5</tspan><tspan fill="#94A3B8">   </tspan><tspan fill="#A3E635">● SIX SIGMA 1</tspan><tspan fill="#94A3B8">   </tspan></text>
+    <g transform="translate(30 76)">
+      <g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.00s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" dur="0.5s" begin="0.00s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/>
+        <rect width="277" height="84" rx="14" fill="#111A2E" stroke="#FFFFFF" stroke-opacity=".07"/>
+        <rect x="0" y="18" width="3" height="48" rx="1.5" fill="#FF9900"/>
+        <use href="#hexS" transform="translate(38 42.0)" fill="#FF9900" fill-opacity=".15" stroke="#FF9900" stroke-width="1.5"/>
+        <text x="38" y="47.0" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="800" fill="#FF9900">A</text>
+        <text x="68" y="27" font-family="'SFMono-Regular', Consolas, Menlo, monospace" font-size="9.5" letter-spacing="2" fill="#FF9900">AWS</text>
+        <text x="68" y="50" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#E2E8F0">Solutions Architect</text>
+        <text x="68" y="69" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" fill="#94A3B8">Professional</text>
+      </g>
+    </g>
+    <g transform="translate(321 76)">
+      <g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.06s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" dur="0.5s" begin="0.06s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/>
+        <rect width="277" height="84" rx="14" fill="#111A2E" stroke="#FFFFFF" stroke-opacity=".07"/>
+        <rect x="0" y="18" width="3" height="48" rx="1.5" fill="#FF9900"/>
+        <use href="#hexS" transform="translate(38 42.0)" fill="#FF9900" fill-opacity=".15" stroke="#FF9900" stroke-width="1.5"/>
+        <text x="38" y="47.0" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="800" fill="#FF9900">A</text>
+        <text x="68" y="27" font-family="'SFMono-Regular', Consolas, Menlo, monospace" font-size="9.5" letter-spacing="2" fill="#FF9900">AWS</text>
+        <text x="68" y="50" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#E2E8F0">Advanced Networking</text>
+        <text x="68" y="69" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" fill="#94A3B8">Specialty</text>
+      </g>
+    </g>
+    <g transform="translate(612 76)">
+      <g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.12s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" dur="0.5s" begin="0.12s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/>
+        <rect width="277" height="84" rx="14" fill="#111A2E" stroke="#FFFFFF" stroke-opacity=".07"/>
+        <rect x="0" y="18" width="3" height="48" rx="1.5" fill="#FF9900"/>
+        <use href="#hexS" transform="translate(38 42.0)" fill="#FF9900" fill-opacity=".15" stroke="#FF9900" stroke-width="1.5"/>
+        <text x="38" y="47.0" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="800" fill="#FF9900">A</text>
+        <text x="68" y="27" font-family="'SFMono-Regular', Consolas, Menlo, monospace" font-size="9.5" letter-spacing="2" fill="#FF9900">AWS</text>
+        <text x="68" y="50" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#E2E8F0">Machine Learning Engineer</text>
+        <text x="68" y="69" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" fill="#94A3B8">Associate</text>
+      </g>
+    </g>
+    <g transform="translate(903 76)">
+      <g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.18s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" dur="0.5s" begin="0.18s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/>
+        <rect width="277" height="84" rx="14" fill="#111A2E" stroke="#FFFFFF" stroke-opacity=".07"/>
+        <rect x="0" y="18" width="3" height="48" rx="1.5" fill="#FF9900"/>
+        <use href="#hexS" transform="translate(38 42.0)" fill="#FF9900" fill-opacity=".15" stroke="#FF9900" stroke-width="1.5"/>
+        <text x="38" y="47.0" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="800" fill="#FF9900">A</text>
+        <text x="68" y="27" font-family="'SFMono-Regular', Consolas, Menlo, monospace" font-size="9.5" letter-spacing="2" fill="#FF9900">AWS</text>
+        <text x="68" y="50" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#E2E8F0">Solutions Architect</text>
+        <text x="68" y="69" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" fill="#94A3B8">Associate</text>
+      </g>
+    </g>
+    <g transform="translate(30 174)">
+      <g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.24s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" dur="0.5s" begin="0.24s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/>
+        <rect width="277" height="84" rx="14" fill="#111A2E" stroke="#FFFFFF" stroke-opacity=".07"/>
+        <rect x="0" y="18" width="3" height="48" rx="1.5" fill="#FF9900"/>
+        <use href="#hexS" transform="translate(38 42.0)" fill="#FF9900" fill-opacity=".15" stroke="#FF9900" stroke-width="1.5"/>
+        <text x="38" y="47.0" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="800" fill="#FF9900">A</text>
+        <text x="68" y="27" font-family="'SFMono-Regular', Consolas, Menlo, monospace" font-size="9.5" letter-spacing="2" fill="#FF9900">AWS</text>
+        <text x="68" y="50" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#E2E8F0">AI Practitioner</text>
+        <text x="68" y="69" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" fill="#94A3B8">Foundational</text>
+      </g>
+    </g>
+    <g transform="translate(321 174)">
+      <g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.30s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" dur="0.5s" begin="0.30s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/>
+        <rect width="277" height="84" rx="14" fill="#111A2E" stroke="#FFFFFF" stroke-opacity=".07"/>
+        <rect x="0" y="18" width="3" height="48" rx="1.5" fill="#FF9900"/>
+        <use href="#hexS" transform="translate(38 42.0)" fill="#FF9900" fill-opacity=".15" stroke="#FF9900" stroke-width="1.5"/>
+        <text x="38" y="47.0" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="800" fill="#FF9900">A</text>
+        <text x="68" y="27" font-family="'SFMono-Regular', Consolas, Menlo, monospace" font-size="9.5" letter-spacing="2" fill="#FF9900">AWS</text>
+        <text x="68" y="50" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#E2E8F0">Cloud Practitioner</text>
+        <text x="68" y="69" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" fill="#94A3B8">Foundational</text>
+      </g>
+    </g>
+    <g transform="translate(612 174)">
+      <g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.36s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" dur="0.5s" begin="0.36s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/>
+        <rect width="277" height="84" rx="14" fill="#111A2E" stroke="#FFFFFF" stroke-opacity=".07"/>
+        <rect x="0" y="18" width="3" height="48" rx="1.5" fill="#FF9900"/>
+        <use href="#hexS" transform="translate(38 42.0)" fill="#FF9900" fill-opacity=".15" stroke="#FF9900" stroke-width="1.5"/>
+        <text x="38" y="47.0" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="800" fill="#FF9900">A</text>
+        <text x="68" y="27" font-family="'SFMono-Regular', Consolas, Menlo, monospace" font-size="9.5" letter-spacing="2" fill="#FF9900">AWS</text>
+        <text x="68" y="50" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#E2E8F0">AI Business Strategist</text>
+        <text x="68" y="69" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" fill="#94A3B8">Credential</text>
+      </g>
+    </g>
+    <g transform="translate(903 174)">
+      <g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.42s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" dur="0.5s" begin="0.42s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/>
+        <rect width="277" height="84" rx="14" fill="#111A2E" stroke="#FFFFFF" stroke-opacity=".07"/>
+        <rect x="0" y="18" width="3" height="48" rx="1.5" fill="#4F8BFF"/>
+        <use href="#hexS" transform="translate(38 42.0)" fill="#4F8BFF" fill-opacity=".15" stroke="#4F8BFF" stroke-width="1.5"/>
+        <text x="38" y="47.0" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="800" fill="#4F8BFF">K</text>
+        <text x="68" y="27" font-family="'SFMono-Regular', Consolas, Menlo, monospace" font-size="9.5" letter-spacing="2" fill="#4F8BFF">KUBERNETES · CNCF</text>
+        <text x="68" y="50" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#E2E8F0">CKA</text>
+        <text x="68" y="69" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" fill="#94A3B8">Certified K8s Administrator</text>
+      </g>
+    </g>
+    <g transform="translate(30 272)">
+      <g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.48s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" dur="0.5s" begin="0.48s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/>
+        <rect width="277" height="84" rx="14" fill="#111A2E" stroke="#FFFFFF" stroke-opacity=".07"/>
+        <rect x="0" y="18" width="3" height="48" rx="1.5" fill="#4F8BFF"/>
+        <use href="#hexS" transform="translate(38 42.0)" fill="#4F8BFF" fill-opacity=".15" stroke="#4F8BFF" stroke-width="1.5"/>
+        <text x="38" y="47.0" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="800" fill="#4F8BFF">K</text>
+        <text x="68" y="27" font-family="'SFMono-Regular', Consolas, Menlo, monospace" font-size="9.5" letter-spacing="2" fill="#4F8BFF">KUBERNETES · CNCF</text>
+        <text x="68" y="50" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#E2E8F0">CKAD</text>
+        <text x="68" y="69" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" fill="#94A3B8">Certified K8s App Developer</text>
+      </g>
+    </g>
+    <g transform="translate(321 272)">
+      <g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.54s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" dur="0.5s" begin="0.54s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/>
+        <rect width="277" height="84" rx="14" fill="#111A2E" stroke="#FFFFFF" stroke-opacity=".07"/>
+        <rect x="0" y="18" width="3" height="48" rx="1.5" fill="#4F8BFF"/>
+        <use href="#hexS" transform="translate(38 42.0)" fill="#4F8BFF" fill-opacity=".15" stroke="#4F8BFF" stroke-width="1.5"/>
+        <text x="38" y="47.0" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="800" fill="#4F8BFF">K</text>
+        <text x="68" y="27" font-family="'SFMono-Regular', Consolas, Menlo, monospace" font-size="9.5" letter-spacing="2" fill="#4F8BFF">KUBERNETES · CNCF</text>
+        <text x="68" y="50" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#E2E8F0">CKS</text>
+        <text x="68" y="69" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" fill="#94A3B8">K8s Security Specialist</text>
+      </g>
+    </g>
+    <g transform="translate(612 272)">
+      <g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.60s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" dur="0.5s" begin="0.60s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/>
+        <rect width="277" height="84" rx="14" fill="#111A2E" stroke="#FFFFFF" stroke-opacity=".07"/>
+        <rect x="0" y="18" width="3" height="48" rx="1.5" fill="#4F8BFF"/>
+        <use href="#hexS" transform="translate(38 42.0)" fill="#4F8BFF" fill-opacity=".15" stroke="#4F8BFF" stroke-width="1.5"/>
+        <text x="38" y="47.0" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="800" fill="#4F8BFF">K</text>
+        <text x="68" y="27" font-family="'SFMono-Regular', Consolas, Menlo, monospace" font-size="9.5" letter-spacing="2" fill="#4F8BFF">KUBERNETES · CNCF</text>
+        <text x="68" y="50" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#E2E8F0">KCNA</text>
+        <text x="68" y="69" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" fill="#94A3B8">Cloud Native Associate</text>
+      </g>
+    </g>
+    <g transform="translate(903 272)">
+      <g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.66s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" dur="0.5s" begin="0.66s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/>
+        <rect width="277" height="84" rx="14" fill="#111A2E" stroke="#FFFFFF" stroke-opacity=".07"/>
+        <rect x="0" y="18" width="3" height="48" rx="1.5" fill="#4F8BFF"/>
+        <use href="#hexS" transform="translate(38 42.0)" fill="#4F8BFF" fill-opacity=".15" stroke="#4F8BFF" stroke-width="1.5"/>
+        <text x="38" y="47.0" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="800" fill="#4F8BFF">K</text>
+        <text x="68" y="27" font-family="'SFMono-Regular', Consolas, Menlo, monospace" font-size="9.5" letter-spacing="2" fill="#4F8BFF">KUBERNETES · CNCF</text>
+        <text x="68" y="50" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#E2E8F0">KCSA</text>
+        <text x="68" y="69" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" fill="#94A3B8">Cloud Native Security Assoc.</text>
+      </g>
+    </g>
+    <g transform="translate(30 370)">
+      <g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.72s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" dur="0.5s" begin="0.72s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/>
+        <rect width="277" height="84" rx="14" fill="#111A2E" stroke="#FFFFFF" stroke-opacity=".07"/>
+        <rect x="0" y="18" width="3" height="48" rx="1.5" fill="#4285F4"/>
+        <use href="#hexS" transform="translate(38 42.0)" fill="#4285F4" fill-opacity=".15" stroke="#4285F4" stroke-width="1.5"/>
+        <text x="38" y="47.0" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="800" fill="#4285F4">G</text>
+        <text x="68" y="27" font-family="'SFMono-Regular', Consolas, Menlo, monospace" font-size="9.5" letter-spacing="2" fill="#4285F4">GOOGLE CLOUD</text>
+        <text x="68" y="50" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#E2E8F0">Cloud Network Engineer</text>
+        <text x="68" y="69" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" fill="#94A3B8">Professional</text>
+      </g>
+    </g>
+    <g transform="translate(321 370)">
+      <g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.78s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" dur="0.5s" begin="0.78s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/>
+        <rect width="277" height="84" rx="14" fill="#111A2E" stroke="#FFFFFF" stroke-opacity=".07"/>
+        <rect x="0" y="18" width="3" height="48" rx="1.5" fill="#4285F4"/>
+        <use href="#hexS" transform="translate(38 42.0)" fill="#4285F4" fill-opacity=".15" stroke="#4285F4" stroke-width="1.5"/>
+        <text x="38" y="47.0" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="800" fill="#4285F4">G</text>
+        <text x="68" y="27" font-family="'SFMono-Regular', Consolas, Menlo, monospace" font-size="9.5" letter-spacing="2" fill="#4285F4">GOOGLE CLOUD</text>
+        <text x="68" y="50" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#E2E8F0">Cloud Digital Leader</text>
+        <text x="68" y="69" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" fill="#94A3B8">Foundational</text>
+      </g>
+    </g>
+    <g transform="translate(612 370)">
+      <g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.84s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" dur="0.5s" begin="0.84s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/>
+        <rect width="277" height="84" rx="14" fill="#111A2E" stroke="#FFFFFF" stroke-opacity=".07"/>
+        <rect x="0" y="18" width="3" height="48" rx="1.5" fill="#F0506E"/>
+        <use href="#hexS" transform="translate(38 42.0)" fill="#F0506E" fill-opacity=".15" stroke="#F0506E" stroke-width="1.5"/>
+        <text x="38" y="47.0" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="800" fill="#F0506E">C</text>
+        <text x="68" y="27" font-family="'SFMono-Regular', Consolas, Menlo, monospace" font-size="9.5" letter-spacing="2" fill="#F0506E">COMPTIA</text>
+        <text x="68" y="50" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#E2E8F0">Security+</text>
+        <text x="68" y="69" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" fill="#94A3B8">Cybersecurity</text>
+      </g>
+    </g>
+    <g transform="translate(903 370)">
+      <g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.90s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" dur="0.5s" begin="0.90s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/>
+        <rect width="277" height="84" rx="14" fill="#111A2E" stroke="#FFFFFF" stroke-opacity=".07"/>
+        <rect x="0" y="18" width="3" height="48" rx="1.5" fill="#F0506E"/>
+        <use href="#hexS" transform="translate(38 42.0)" fill="#F0506E" fill-opacity=".15" stroke="#F0506E" stroke-width="1.5"/>
+        <text x="38" y="47.0" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="800" fill="#F0506E">C</text>
+        <text x="68" y="27" font-family="'SFMono-Regular', Consolas, Menlo, monospace" font-size="9.5" letter-spacing="2" fill="#F0506E">COMPTIA</text>
+        <text x="68" y="50" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#E2E8F0">Network+</text>
+        <text x="68" y="69" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" fill="#94A3B8">Networking</text>
+      </g>
+    </g>
+    <g transform="translate(30 468)">
+      <g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.96s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" dur="0.5s" begin="0.96s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/>
+        <rect width="277" height="84" rx="14" fill="#111A2E" stroke="#FFFFFF" stroke-opacity=".07"/>
+        <rect x="0" y="18" width="3" height="48" rx="1.5" fill="#F0506E"/>
+        <use href="#hexS" transform="translate(38 42.0)" fill="#F0506E" fill-opacity=".15" stroke="#F0506E" stroke-width="1.5"/>
+        <text x="38" y="47.0" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="800" fill="#F0506E">C</text>
+        <text x="68" y="27" font-family="'SFMono-Regular', Consolas, Menlo, monospace" font-size="9.5" letter-spacing="2" fill="#F0506E">COMPTIA</text>
+        <text x="68" y="50" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#E2E8F0">A+</text>
+        <text x="68" y="69" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" fill="#94A3B8">IT fundamentals</text>
+      </g>
+    </g>
+    <g transform="translate(321 468)">
+      <g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.02s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" dur="0.5s" begin="1.02s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/>
+        <rect width="277" height="84" rx="14" fill="#111A2E" stroke="#FFFFFF" stroke-opacity=".07"/>
+        <rect x="0" y="18" width="3" height="48" rx="1.5" fill="#F0506E"/>
+        <use href="#hexS" transform="translate(38 42.0)" fill="#F0506E" fill-opacity=".15" stroke="#F0506E" stroke-width="1.5"/>
+        <text x="38" y="47.0" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="800" fill="#F0506E">C</text>
+        <text x="68" y="27" font-family="'SFMono-Regular', Consolas, Menlo, monospace" font-size="9.5" letter-spacing="2" fill="#F0506E">COMPTIA</text>
+        <text x="68" y="50" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#E2E8F0">IT Operations Specialist</text>
+        <text x="68" y="69" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" fill="#94A3B8">Stackable · A+ · Network+</text>
+      </g>
+    </g>
+    <g transform="translate(612 468)">
+      <g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.08s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" dur="0.5s" begin="1.08s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/>
+        <rect width="277" height="84" rx="14" fill="#111A2E" stroke="#FFFFFF" stroke-opacity=".07"/>
+        <rect x="0" y="18" width="3" height="48" rx="1.5" fill="#F0506E"/>
+        <use href="#hexS" transform="translate(38 42.0)" fill="#F0506E" fill-opacity=".15" stroke="#F0506E" stroke-width="1.5"/>
+        <text x="38" y="47.0" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="800" fill="#F0506E">C</text>
+        <text x="68" y="27" font-family="'SFMono-Regular', Consolas, Menlo, monospace" font-size="9.5" letter-spacing="2" fill="#F0506E">COMPTIA</text>
+        <text x="68" y="50" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#E2E8F0">Secure Infrastructure Specialist</text>
+        <text x="68" y="69" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" fill="#94A3B8">Stackable · A+ · Net+ · Sec+</text>
+      </g>
+    </g>
+    <g transform="translate(903 468)">
+      <g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.14s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" dur="0.5s" begin="1.14s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/>
+        <rect width="277" height="84" rx="14" fill="#111A2E" stroke="#FFFFFF" stroke-opacity=".07"/>
+        <rect x="0" y="18" width="3" height="48" rx="1.5" fill="#A3E635"/>
+        <use href="#hexS" transform="translate(38 42.0)" fill="#A3E635" fill-opacity=".15" stroke="#A3E635" stroke-width="1.5"/>
+        <text x="38" y="47.0" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="800" fill="#A3E635">σ</text>
+        <text x="68" y="27" font-family="'SFMono-Regular', Consolas, Menlo, monospace" font-size="9.5" letter-spacing="2" fill="#A3E635">LEAN SIX SIGMA</text>
+        <text x="68" y="50" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#E2E8F0">Yellow Belt</text>
+        <text x="68" y="69" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" fill="#94A3B8">Process improvement</text>
+      </g>
+    </g>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="569" rx="24" fill="none" stroke="#FFFFFF" stroke-opacity=".08"/>
+</svg>

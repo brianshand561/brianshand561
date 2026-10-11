@@ -1,0 +1,146 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="Brian Shand — Platform and DevOps Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1120"/>
+      <stop offset="1" stop-color="#0F172A"/>
+    </linearGradient>
+    <radialGradient id="b1"><stop offset="0" stop-color="#22D3EE" stop-opacity=".5"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+    <radialGradient id="b2"><stop offset="0" stop-color="#A78BFA" stop-opacity=".45"/><stop offset="1" stop-color="#A78BFA" stop-opacity="0"/></radialGradient>
+    <radialGradient id="b3"><stop offset="0" stop-color="#F472B6" stop-opacity=".3"/><stop offset="1" stop-color="#F472B6" stop-opacity="0"/></radialGradient>
+    <linearGradient id="name" x1="0" y1="0" x2="1" y2="0" spreadMethod="repeat">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset=".33" stop-color="#A78BFA"/>
+      <stop offset=".66" stop-color="#F472B6"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="1 0" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#FFFFFF" stop-opacity=".07"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="7" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glow2" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="10" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#FFFFFF" stroke-opacity=".045"/>
+    </pattern>
+    <clipPath id="clip"><rect width="1200" height="400" rx="24"/></clipPath>
+    <polygon id="hexL" points="39.8,23 0,46 -39.8,23 -39.8,-23 0,-46 39.8,-23"/>
+    <polygon id="hexS" points="13.9,8 0,16 -13.9,8 -13.9,-8 0,-16 13.9,-8"/>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="400" fill="url(#bg)"/>
+    <rect width="1200" height="400" fill="url(#grid)"/>
+
+    <circle cx="180" cy="80" r="280" fill="url(#b1)">
+      <animate attributeName="cx" values="180;280;180" dur="14s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="80;170;80" dur="11s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1000" cy="340" r="320" fill="url(#b2)">
+      <animate attributeName="cx" values="1000;880;1000" dur="16s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="340;230;340" dur="13s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="680" cy="30" r="240" fill="url(#b3)">
+      <animate attributeName="cx" values="680;780;680" dur="18s" repeatCount="indefinite"/>
+    </circle>
+
+    <rect x="-400" y="-100" width="260" height="600" fill="url(#sweep)" transform="skewX(-20)">
+      <animate attributeName="x" from="-400" to="1600" dur="7s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- Text block -->
+    <g font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+      <text x="72" y="118" font-family="'SFMono-Regular', Consolas, Menlo, monospace" font-size="14" letter-spacing="5" fill="#22D3EE" opacity="0">
+        // HELLO, WORLD — I'M
+        <animate attributeName="opacity" from="0" to="1" dur=".8s" begin=".2s" fill="freeze"/>
+      </text>
+      <g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" dur=".9s" begin=".5s" fill="freeze"/>
+        <animateTransform attributeName="transform" type="translate" from="0 16" to="0 0" dur=".9s" begin=".5s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.8 0.2 1"/>
+        <text x="70" y="208" font-size="82" font-weight="800" letter-spacing="-2" fill="url(#name)" filter="url(#glow)">Brian Shand</text>
+      </g>
+      <g opacity="0">
+        <animate attributeName="opacity" from="0" to="1" dur=".8s" begin=".9s" fill="freeze"/>
+        <text x="72" y="256" font-size="27" font-weight="600" fill="#E2E8F0">Platform &amp; DevOps Engineer</text>
+        <text x="72" y="288" font-size="16" fill="#94A3B8">Kubernetes · AWS · GitOps · CI/CD at Fortune 200 scale</text>
+      </g>
+
+      <!-- chips -->
+      <g font-family="'SFMono-Regular', Consolas, Menlo, monospace" font-size="12" letter-spacing="1.5" opacity="0">
+        <animate attributeName="opacity" from="0" to="1" dur=".8s" begin="1.3s" fill="freeze"/>
+        <g>
+          <rect x="72" y="320" width="180" height="32" rx="16" fill="#22D3EE" fill-opacity=".1" stroke="#22D3EE" stroke-opacity=".5"/>
+          <circle cx="92" cy="336" r="4" fill="#22D3EE"><animate attributeName="opacity" values="1;.3;1" dur="2s" repeatCount="indefinite"/></circle>
+          <text x="104" y="340" fill="#22D3EE">20 CERTIFICATIONS</text>
+        </g>
+        <g>
+          <rect x="266" y="320" width="216" height="32" rx="16" fill="#A78BFA" fill-opacity=".1" stroke="#A78BFA" stroke-opacity=".5"/>
+          <circle cx="286" cy="336" r="4" fill="#A78BFA"><animate attributeName="opacity" values="1;.3;1" dur="2s" begin=".6s" repeatCount="indefinite"/></circle>
+          <text x="298" y="340" fill="#A78BFA">40+ PROD EKS CLUSTERS</text>
+        </g>
+        <g>
+          <rect x="496" y="320" width="210" height="32" rx="16" fill="#F472B6" fill-opacity=".1" stroke="#F472B6" stroke-opacity=".5"/>
+          <circle cx="516" cy="336" r="4" fill="#F472B6"><animate attributeName="opacity" values="1;.3;1" dur="2s" begin="1.2s" repeatCount="indefinite"/></circle>
+          <text x="528" y="340" fill="#F472B6">220K CI JOBS / MONTH</text>
+        </g>
+      </g>
+    </g>
+
+    <!-- Orbit cluster -->
+    <g transform="translate(960 200)">
+      <circle r="155" fill="none" stroke="#22D3EE" stroke-opacity=".18" stroke-dasharray="3 9">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="70s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="105" fill="none" stroke="#A78BFA" stroke-opacity=".22"/>
+
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="36s" repeatCount="indefinite"/>
+        <g stroke="#22D3EE" stroke-opacity=".35" stroke-width="1.2">
+          <line x1="0" y1="0" x2="105" y2="0"/>
+          <line x1="0" y1="0" x2="52.5" y2="90.93"/>
+          <line x1="0" y1="0" x2="-52.5" y2="90.93"/>
+          <line x1="0" y1="0" x2="-105" y2="0"/>
+          <line x1="0" y1="0" x2="-52.5" y2="-90.93"/>
+          <line x1="0" y1="0" x2="52.5" y2="-90.93"/>
+        </g>
+        <g fill="#FFFFFF">
+          <circle r="3"><animateMotion dur="2.4s" begin="0s" repeatCount="indefinite" path="M0 0 L105 0"/></circle>
+          <circle r="3"><animateMotion dur="2.4s" begin=".4s" repeatCount="indefinite" path="M0 0 L52.5 90.93"/></circle>
+          <circle r="3"><animateMotion dur="2.4s" begin=".8s" repeatCount="indefinite" path="M0 0 L-52.5 90.93"/></circle>
+          <circle r="3"><animateMotion dur="2.4s" begin="1.2s" repeatCount="indefinite" path="M0 0 L-105 0"/></circle>
+          <circle r="3"><animateMotion dur="2.4s" begin="1.6s" repeatCount="indefinite" path="M0 0 L-52.5 -90.93"/></circle>
+          <circle r="3"><animateMotion dur="2.4s" begin="2s" repeatCount="indefinite" path="M0 0 L52.5 -90.93"/></circle>
+        </g>
+        <g fill="#0B1120" stroke-width="2">
+          <use href="#hexS" transform="translate(105 0)" stroke="#22D3EE"/>
+          <use href="#hexS" transform="translate(52.5 90.93)" stroke="#A78BFA"/>
+          <use href="#hexS" transform="translate(-52.5 90.93)" stroke="#F472B6"/>
+          <use href="#hexS" transform="translate(-105 0)" stroke="#22D3EE"/>
+          <use href="#hexS" transform="translate(-52.5 -90.93)" stroke="#A78BFA"/>
+          <use href="#hexS" transform="translate(52.5 -90.93)" stroke="#F472B6"/>
+        </g>
+      </g>
+
+      <use href="#hexL" fill="#0B1120" stroke="url(#name)" stroke-width="3" filter="url(#glow2)"/>
+      <circle r="13" fill="#22D3EE" filter="url(#glow2)">
+        <animate attributeName="r" values="11;17;11" dur="2.4s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="1;.55;1" dur="2.4s" repeatCount="indefinite"/>
+      </circle>
+
+      <g>
+        <animateTransform attributeName="transform" type="rotate" from="0" to="-360" dur="70s" repeatCount="indefinite"/>
+        <circle cx="155" cy="0" r="5" fill="#A78BFA" filter="url(#glow2)"/>
+        <circle cx="-77.5" cy="134.2" r="5" fill="#F472B6" filter="url(#glow2)"/>
+        <circle cx="-77.5" cy="-134.2" r="5" fill="#22D3EE" filter="url(#glow2)"/>
+      </g>
+    </g>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="399" rx="24" fill="none" stroke="#FFFFFF" stroke-opacity=".08"/>
+</svg>

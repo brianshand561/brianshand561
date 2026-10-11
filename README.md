@@ -17,10 +17,6 @@
 
 <br/>
 
-> **I run the platform that hundreds of engineers ship on.** At NextEra Energy I own large-scale Kubernetes and AWS infrastructure for a Fortune 200 enterprise: self-service platforms, CI/CD systems, and governance tooling that make shipping software secure, fast, and boring in the best way. Before tech I spent a decade founding and running a carbon fiber manufacturing company, so I think about P&L, throughput, and process as much as I think about pods.
-
-<br/>
-
 <div align="center">
 <img src="assets/pipeline.svg" width="100%" alt="Platform blueprint: CI/CD on ephemeral Kubernetes runners, GitOps, multi-region resilience, observability" />
 </div>

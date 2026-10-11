@@ -23,24 +23,6 @@
 
 <br/>
 
-## ⚡ Signature work
-
-- **Migrated enterprise CI to Kubernetes.** Moved GitHub Actions self-hosted runners from static EC2 fleets to Actions Runner Controller on EKS. 130+ teams, 4,000+ repos, 220K jobs a month, with median queue time down from 4m12s to 22s.
-- **Made CI/CD survive a region loss.** Multi-region disaster recovery for the runner platform with automated failover, removing a single point of failure for all software delivery.
-- **Cut CI compute cost per job 62%.** Per-team scale sets with configurable instance families and Spot/On-Demand mix, plus Prometheus/Grafana cost attribution leadership could see for the first time.
-- **Replaced a legacy API gateway.** Conceived and delivered an enterprise Tyk gateway to retire on-prem Apigee: 400+ APIs migrated, p95 latency down 45%, licensing cost down ~48%.
-- **Built the EKS Deployment Toolkit.** One command provisions a production-grade cluster. 25+ teams, 40+ clusters, onboarding down from 5 weeks to under an hour.
-- **Codified governance at org scale.** GitHub rulesets as version-controlled policy and a compliance scanner across 8,000+ repos that lifted compliance from 35% to 88% in two quarters.
-- **Protected 40+ TB of artifacts.** Cross-region DR for Nexus Repository Manager with a validated RTO under 15 minutes and near-zero RPO.
-
-<br/>
-
-<div align="center">
-<img src="assets/impact.svg" width="100%" alt="Impact by the numbers" />
-</div>
-
-<br/>
-
 ## 🧰 Tech stack
 
 <div align="center">

@@ -11,7 +11,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/brian-shand-74b0298a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTMgMS40NS0yLjEzIDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6TTcuMTIgMjAuNDVIMy41NVY5aDMuNTd2MTEuNDV6Ii8+PC9zdmc+" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="mailto:brianshand561@gmail.com"><img src="https://img.shields.io/badge/Email-brianshand561%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Palm_Beach_Gardens,_FL-22D3EE?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0B1120&color=0B1120" alt="Palm Beach Gardens, FL" />
+<a href="http://www.linkedin.com/in/brianshand561"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NSAwLTIuMTMgMS40NS0yLjEzIDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEzIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTN6TTcuMTIgMjAuNDVIMy41NVY5aDMuNTd2MTEuNDV6Ii8+PC9zdmc+" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="mailto:brianshand561@gmail.com"><img src="https://img.shields.io/badge/Email-brianshand561%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Palm_Beach_Gardens,_FL-22D3EE?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0B1120&color=0B1120" alt="Palm Beach Gardens, FL" />
 
 </div>
 
@@ -83,7 +83,7 @@
 
 **Open to conversations about platform engineering, Kubernetes at scale, and making CI/CD boring.**
 
-<a href="https://www.linkedin.com/in/brian-shand-74b0298a/">LinkedIn</a> · <a href="mailto:brianshand561@gmail.com">Email</a>
+<a href="http://www.linkedin.com/in/brianshand561">LinkedIn</a> · <a href="mailto:brianshand561@gmail.com">Email</a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:A78BFA,100:F472B6&height=120&section=footer" width="100%" alt="" />
 
